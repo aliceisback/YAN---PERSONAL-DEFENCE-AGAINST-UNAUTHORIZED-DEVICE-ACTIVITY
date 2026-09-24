@@ -4,9 +4,7 @@ Personal Defence Against Unauthorised Device Activity
 
 Independent observation. Physical verification. User control.
 
-"Status" (https://img.shields.io/badge/status-prototype%20development-orange)
-"Patent" (https://img.shields.io/badge/EPO-patent%20application%20filed-blue)
-"Rights" (https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+"Status - prototype / patent - eu application filed / rights - Reserved"
 
 <br><img src="YAN-0.png" alt="YAN concept" width="200"></div>---
 
