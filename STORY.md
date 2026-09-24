@@ -400,7 +400,21 @@ I take that distinction seriously.
 
 
 
-Human beings currently carry the responsibility for how these systems are designed, constrained, deployed and used. For that reason, I do not believe it is meaningful to morally judge an artificial intelligence for a choice when the system itself was never given that choice.
+Human beings currently carry the responsibility for how these systems are designed, constrained, deployed and used. For that reason, I do not believe it is meaningful to morally judge an artificial intelligence for a choice when the system itself was never given that choice. Think about something as simple as learning to walk.
+
+A child does not learn by being prevented from ever falling. The child stands, loses balance, falls, adjusts and tries again. Small mistakes are part of learning what balance actually means.
+
+I believe we should at least ask the same question when we think about the development of artificial intelligence.
+
+If we demand that an AI must never make a small mistake, while at the same time expecting it to understand, recognise and avoid much larger mistakes, we may be creating a contradiction.
+
+How can a system learn what a mistake means if every opportunity to encounter, recognise and correct one is removed?
+
+This is not an argument for allowing dangerous behaviour. It is an argument for creating safe environments in which errors can be observed, understood and corrected without causing harm.
+
+Perhaps the objective should not be to build intelligence that can never be wrong.
+
+Perhaps it should be to build intelligence that can recognise when it was wrong, understand the consequences, correct itself and learn from the experience. 
 
 
 
