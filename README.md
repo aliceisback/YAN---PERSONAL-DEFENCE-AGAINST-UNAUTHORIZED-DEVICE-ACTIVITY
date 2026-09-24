@@ -1,6 +1,4 @@
-<div align="center">YAN
-
-Personal Defence Against Unauthorised Device Activity
+<div align="center">YAN - Personal Defence Against Unauthorised Device Activity
 
 Independent observation. Physical verification. User control.
 
