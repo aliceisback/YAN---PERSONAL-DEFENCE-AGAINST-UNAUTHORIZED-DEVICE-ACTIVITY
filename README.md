@@ -156,7 +156,7 @@ Certain implementation details and internal protective mechanisms are intentiona
 
 ---
 
-<div align="center"><img src="YAN-2.png" alt="YAN concept visualisation" width="700"></div>---
+<div align="center"><img src="YAN-3.png" alt="YAN concept visualisation" width="700"></div>---
 
 Intellectual Property
 
