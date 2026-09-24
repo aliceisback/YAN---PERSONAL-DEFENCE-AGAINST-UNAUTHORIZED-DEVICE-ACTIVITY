@@ -8,7 +8,7 @@ Independent observation. Physical verification. User control.
 "Patent" (https://img.shields.io/badge/EPO-patent%20application%20filed-blue)
 "Rights" (https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
-<br><img src="YAN-0.png" alt="YAN concept" width="800"></div>---
+<br><img src="YAN-0.png" alt="YAN concept" width="200"></div>---
 
 What is YAN?
 
@@ -77,7 +77,7 @@ Selected sensing, storage, power and control components may operate in a physica
 
 ---
 
-<div align="center"><img src="YAN-1.png" alt="YAN protective system concept" width="700"></div>---
+<div align="center"><img src="YAN-1.png" alt="YAN protective system concept" width="250"></div>---
 
 Different Physical Forms
 
@@ -117,7 +117,7 @@ YAN is not dependent on Living Architecture and is not limited to a particular a
 
 ---
 
-<div align="center"><img src="YAN-2.png" alt="YAN concept visualisation" width="700"></div>---
+<div align="center"><img src="YAN-2.png" alt="YAN concept visualisation" width="250"></div>---
 
 Patent Status
 
@@ -156,7 +156,7 @@ Certain implementation details and internal protective mechanisms are intentiona
 
 ---
 
-<div align="center"><img src="YAN-3.png" alt="YAN concept visualisation" width="700"></div>---
+<div align="center"><img src="YAN-3.png" alt="YAN concept visualisation" width="250"></div>---
 
 Intellectual Property
 
